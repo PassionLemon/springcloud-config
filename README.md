@@ -1,2 +1,3 @@
-# Test
-测试git仓库使用
+# springcloud-config
+
+springcloud-config的配置中心
